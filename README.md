@@ -1,1 +1,1 @@
-# Digita-portfolio
+# Digital-portfolio
